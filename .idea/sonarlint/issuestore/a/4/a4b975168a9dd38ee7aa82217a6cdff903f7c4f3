@@ -1,0 +1,11 @@
+
+s
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(ÃüÉäıÿÿÿÿ8§×™…§2
+r
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(ƒÔÙÀşÿÿÿÿ8¨×™…§2
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âèàé
+L	java:S106	"+Replace this use of System.out by a logger.(³Öèøÿÿÿÿ8¯­¢ƒ§2
+G	java:S106
+"+Replace this use of System.out by a logger.(£¨±í8Õ×™…§2
+L	java:S106"+Replace this use of System.out by a logger.(¼øıÿÿÿÿÿ8××™…§2
+L	java:S106"+Replace this use of System.out by a logger.(ËÖÆ¼ûÿÿÿÿ8İ×™…§2

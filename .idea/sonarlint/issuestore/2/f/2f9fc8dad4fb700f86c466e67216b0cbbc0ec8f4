@@ -1,0 +1,32 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğëœ¿ûÿÿÿÿ8ÏÏ“‡ª2
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(°Ü´‚üÿÿÿÿ8Ğ“‡ª2
+L	java:S106"+Replace this use of System.out by a logger.(µƒºÖıÿÿÿÿ8˜Ğ“‡ª2
+L	java:S106"+Replace this use of System.out by a logger.(ÊîÍıÿÿÿÿ8›Ğ“‡ª2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÊîÍıÿÿÿÿ8œĞ“‡ª2
+L	java:S106"+Replace this use of System.out by a logger.(¶“Àÿÿÿÿÿ8Ğ“‡ª2
+]	java:S125"<This block of commented-out lines of code should be removed.(¶“Àÿÿÿÿÿ8Ğ“‡ª2
+G	java:S106""+Replace this use of System.out by a logger.(ïÄ‘ª8Ğ“‡ª2
+X	java:S125""<This block of commented-out lines of code should be removed.(ïÄ‘ª8 Ğ“‡ª2
+L	java:S106)"+Replace this use of System.out by a logger.(ô€üïûÿÿÿÿ8¡Ğ“‡ª2
+]	java:S125)"<This block of commented-out lines of code should be removed.(ô€üïûÿÿÿÿ8¢Ğ“‡ª2
+L	java:S106-"+Replace this use of System.out by a logger.(µƒºÖıÿÿÿÿ8£Ğ“‡ª2
+L	java:S1060"+Replace this use of System.out by a logger.(µƒºÖıÿÿÿÿ8¤Ğ“‡ª2
+L	java:S1067"+Replace this use of System.out by a logger.(œæÒæüÿÿÿÿ8¦Ğ“‡ª2
+L	java:S1068"+Replace this use of System.out by a logger.(ËÍá¡ùÿÿÿÿ8ªĞ“‡ª2
+L	java:S106;"+Replace this use of System.out by a logger.(èã­ÿÿÿÿÿ8«Ğ“‡ª2
+L	java:S106<"+Replace this use of System.out by a logger.(¼íóüÿÿÿÿ8¬Ğ“‡ª2
+]	java:S125D"<This block of commented-out lines of code should be removed.(ïğ’¤şÿÿÿÿ8®Ğ“‡ª2
+L	java:S106G"+Replace this use of System.out by a logger.(ø¼˜Šıÿÿÿÿ8°Ğ“‡ª2
+L	java:S106I"+Replace this use of System.out by a logger.(²’Üóıÿÿÿÿ8±Ğ“‡ª2
+G	java:S106J"+Replace this use of System.out by a logger.(¯şçõ8²Ğ“‡ª2
+G	java:S106O"+Replace this use of System.out by a logger.(£©ÊÖ8¶Ğ“‡ª2
+X	java:S125O"<This block of commented-out lines of code should be removed.(£©ÊÖ8·Ğ“‡ª2
+L	java:S106R"+Replace this use of System.out by a logger.(¨ëûÀùÿÿÿÿ8¸Ğ“‡ª2
+F	java:S106W"+Replace this use of System.out by a logger.(÷Ş·18ºĞ“‡ª2
+F	java:S106\"+Replace this use of System.out by a logger.(´•Í8½Ğ“‡ª2
+G	java:S106_"+Replace this use of System.out by a logger.(€ã‚†8¾Ğ“‡ª2
+X	java:S125_"<This block of commented-out lines of code should be removed.(€ã‚†8Œ®›‡ª2
+o
+java:S1128"RRemove this unused import 'javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec'.(‡ï¦ƒ8¿Ğ“‡ª2

@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®È¨˜úÿÿÿÿ8»¡‹Ï©2
+L	java:S106,"+Replace this use of System.out by a logger.(Ñ”˜‹þÿÿÿÿ8â¡‹Ï©2
+X	java:S125+"<This block of commented-out lines of code should be removed.(æµ¨É8â¡‹Ï©2
+L	java:S1062"+Replace this use of System.out by a logger.(¤±Ôøÿÿÿÿ8ä¡‹Ï©2
+L	java:S1064"+Replace this use of System.out by a logger.(õ›¼éüÿÿÿÿ8ä¡‹Ï©2
+L	java:S1068"+Replace this use of System.out by a logger.(æ˜çóùÿÿÿÿ8å¡‹Ï©2
+L	java:S1069"+Replace this use of System.out by a logger.(õ›¼éüÿÿÿÿ8å¡‹Ï©2
+F	java:S106="+Replace this use of System.out by a logger.(æÍ±8æ¡‹Ï©2
+G	java:S106@"+Replace this use of System.out by a logger.(óÒØÔ8ç¡‹Ï©2
+G	java:S106^"+Replace this use of System.out by a logger.(©òËþ8ë¡‹Ï©2
+L	java:S106t"+Replace this use of System.out by a logger.(ÏÑšÄùÿÿÿÿ8î¡‹Ï©2
+G	java:S106z"+Replace this use of System.out by a logger.(…öê×8ï¡‹Ï©2
+G	java:S106}"+Replace this use of System.out by a logger.(Œ­ÿ…8ð¡‹Ï©2
+L	java:S106"+Replace this use of System.out by a logger.(¶´›§þÿÿÿÿ8ð¡‹Ï©2
+H	java:S106…"+Replace this use of System.out by a logger.(Œ­ÿ…8ñ¡‹Ï©2
+H	java:S106Š"+Replace this use of System.out by a logger.(ºî³Ö8ñ¡‹Ï©2
+M	java:S106‹"+Replace this use of System.out by a logger.(‹Øí¹ùÿÿÿÿ8ò¡‹Ï©2
+H	java:S106œ"+Replace this use of System.out by a logger.(•’€†8ó¡‹Ï©2
+H	java:S106£"+Replace this use of System.out by a logger.(›Öº¦8ô¡‹Ï©2
+H	java:S106¤"+Replace this use of System.out by a logger.(ýÛæ8ô¡‹Ï©2
+M	java:S106§"+Replace this use of System.out by a logger.(í„éùÿÿÿÿÿ8õ¡‹Ï©2
+M	java:S106¨"+Replace this use of System.out by a logger.(Ã”†Èùÿÿÿÿ8õ¡‹Ï©2
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ö¡‹Ï©2

@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðëœ¿ûÿÿÿÿ8¤žÆŠª2
+x
+java:S1149V"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(„›ç…ûÿÿÿÿ8…¼ÑŠª2
+a
+java:S4143d"DVerify this is the key that was intended; it was already set before.(’±»Ë8ïŒÑŠª2
+L	java:S106h"+Replace this use of System.out by a logger.(µƒºÖýÿÿÿÿ8ÌžÆŠª2
+L	java:S106r"+Replace this use of System.out by a logger.(çŸê­øÿÿÿÿ8ÐžÆŠª2
+G	java:S106v"+Replace this use of System.out by a logger.(ó˜åØ8ÒžÆŠª2
+X	java:S125v"<This block of commented-out lines of code should be removed.(ó˜åØ8ÓžÆŠª2
+L	java:S106y"+Replace this use of System.out by a logger.(ÖŸþûÿÿÿÿ8ÔžÆŠª2
+]	java:S125y"<This block of commented-out lines of code should be removed.(ÖŸþûÿÿÿÿ8ÔžÆŠª2
+G	java:S106}"+Replace this use of System.out by a logger.(þ©Éå8ÕžÆŠª2
+X	java:S125}"<This block of commented-out lines of code should be removed.(þ©Éå8ÕžÆŠª2
+H	java:S106‚"+Replace this use of System.out by a logger.(§½ç8ØžÆŠª2
+H	java:S106–"+Replace this use of System.out by a logger.(êŽˆ8ÜžÆŠª2
+^	java:S125—"<This block of commented-out lines of code should be removed.(Ï“Óýÿÿÿÿ8ÜžÆŠª2

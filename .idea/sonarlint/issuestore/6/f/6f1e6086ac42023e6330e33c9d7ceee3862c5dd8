@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şåÏ¢8¼ØÀ…«2
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ı“ıº8ÅØÀ…«2
+L	java:S106"+Replace this use of System.out by a logger.(§éŞ„üÿÿÿÿ8ÆØÀ…«2
+L	java:S106"+Replace this use of System.out by a logger.(Ó¹úÆüÿÿÿÿ8ÆØÀ…«2

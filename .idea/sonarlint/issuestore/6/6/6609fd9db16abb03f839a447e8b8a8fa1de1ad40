@@ -1,0 +1,21 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Ali Can" 3 times.(êç§Òùÿÿÿÿ8ò½„õ©2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®È¨˜úÿÿÿÿ
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(°êÔÙşÿÿÿÿ8¿„õ©2
+L	java:S106"+Replace this use of System.out by a logger.(ÈÇøÿÿÿÿ8¥¿„õ©2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÈÇøÿÿÿÿ8¦¿„õ©2
+G	java:S106 "+Replace this use of System.out by a logger.(Ùßë€8¨¿„õ©2
+L	java:S106&"+Replace this use of System.out by a logger.(½¦Ò…ùÿÿÿÿ8©¿„õ©2
+L	java:S106+"+Replace this use of System.out by a logger.(Òî—ëüÿÿÿÿ8«¿„õ©2
+G	java:S1064"+Replace this use of System.out by a logger.(ŒÃœ…8­¿„õ©2
+G	java:S106:"+Replace this use of System.out by a logger.(æÕé8°¿„õ©2
+G	java:S106<"+Replace this use of System.out by a logger.(¨³Ë8³¿„õ©2
+L	java:S106B"+Replace this use of System.out by a logger.(ÈÇøÿÿÿÿ8µ¿„õ©2
+]	java:S125B"<This block of commented-out lines of code should be removed.(ÈÇøÿÿÿÿ8µ¿„õ©2
+L	java:S106E"+Replace this use of System.out by a logger.(˜ã¾åıÿÿÿÿ8·¿„õ©2
+G	java:S106H"+Replace this use of System.out by a logger.(Œ­ÿ…8¹¿„õ©2
+G	java:S106O"+Replace this use of System.out by a logger.(ĞÛâï8º¿„õ©2
+L	java:S106_"+Replace this use of System.out by a logger.(õªãÈøÿÿÿÿ8À¿„õ©2
+G	java:S106d"+Replace this use of System.out by a logger.(Ã¼À¸8Ä¿„õ©2

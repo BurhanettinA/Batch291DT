@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ“ê´8Á½÷Ù¦2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8é¯ı‚§2
+L	java:S106"+Replace this use of System.out by a logger.(Ñô–ûÿÿÿÿ8î¯ı‚§2
+Z
+java:S1854"8Remove this useless assignment to local variable "obj2".(úùÌºıÿÿÿÿ8ô¯ı‚§2
+Z
+java:S1854"8Remove this useless assignment to local variable "obj1".(ûíßÿÿÿÿÿ8ø¯ı‚§2
+K
+java:S1481")Remove this unused "obj1" local variable.(ûíßÿÿÿÿÿ8€°ı‚§2
+K
+java:S1481")Remove this unused "obj2" local variable.(úùÌºıÿÿÿÿ8ƒ°ı‚§2

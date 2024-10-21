@@ -1,0 +1,11 @@
+
+p
+java:S1104"SMake stdName a static final constant or non-public and provide accessors if needed.(ª®–‘8úû²²¦2
+u
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(£Ó«ßøÿÿÿÿ8À‘šÙ¦2
+n
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(ðÿ¼´8©ú™Ù¦2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ùÊ£ÿÿÿÿÿ8ûû²²¦2
+X	java:S125"<This block of commented-out lines of code should be removed.(Á»›ê8žµ‡³¦2
+H
+java:S1068",Remove this unused "tcKImlik" private field.(ˆíŒ8‡ü²²¦2

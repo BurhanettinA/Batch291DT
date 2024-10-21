@@ -1,0 +1,7 @@
+
+m
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(ðÐ ó8½­‚Ú¦2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ“ê´8Á­‚Ú¦2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ºŽÿ‚§2
+G	java:S106	"+Replace this use of System.out by a logger.(ª¯‰ˆ8¼Žÿ‚§2

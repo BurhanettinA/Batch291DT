@@ -1,0 +1,11 @@
+
+2
+java:S1643?"Use a StringBuilder instead.(¦ıÌİ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì‚ŒĞ
+1
+java:S3626("Remove this redundant jump.(—ù¿
+E	java:S106"+Replace this use of System.out by a logger.(¶©’Şÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(¬ïÙÖÿÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(±‡âÈüÿÿÿÿ

@@ -1,0 +1,11 @@
+
+s
+java:S1104
+"QMake color a static final constant or non-public and provide accessors if needed.(æ®þôûÿÿÿÿ8¥ž§Û¦2
+v
+java:S1104"TMake fuelType a static final constant or non-public and provide accessors if needed.(ƒáçûüÿÿÿÿ8§ž§Û¦2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ“ê´8ŸžÜÚ¦2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¼ž§Û¦2
+G	java:S106"+Replace this use of System.out by a logger.(”òÕÜ8¿ž§Û¦2
+L	java:S106"+Replace this use of System.out by a logger.(Ê¶œœÿÿÿÿÿ8Àž§Û¦2

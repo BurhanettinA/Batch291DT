@@ -1,0 +1,12 @@
+
+u
+java:S1104"SMake stdName a static final constant or non-public and provide accessors if needed.(ˆÒç‡ûÿÿÿÿ8ƒëšÙ¦2
+q
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(¾ã¼…ûÿÿÿÿ8†ëšÙ¦2
+O
+java:S1444"-Make this "public static stdName" field final(ˆÒç‡ûÿÿÿÿ8‡ëšÙ¦2
+ù
+java:S1598"ÖThis file "Student2.java" should be located in "d19stringbuilder_buffer_accessmodifier_static" directory, not in "C:\Users\Nutzer\IdeaProjects\Batch291DT\src\main\java\d19stringbuilder_buffer_accesmodifier_static".(÷É‰‡ÿÿÿÿÿ8ˆëšÙ¦2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷É‰‡ÿÿÿÿÿ8ˆëšÙ¦2
+L	java:S106"+Replace this use of System.out by a logger.(ÑóÅÛýÿÿÿÿ8œëšÙ¦2
+L	java:S106"+Replace this use of System.out by a logger.(½òæáþÿÿÿÿ8žëšÙ¦2

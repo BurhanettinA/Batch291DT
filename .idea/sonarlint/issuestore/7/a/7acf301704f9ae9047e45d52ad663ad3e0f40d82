@@ -1,0 +1,21 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åşç³8ÿ‡Ê·¥2
+U
+java:S1854"8Remove this useless assignment to local variable "str3".(ı³ıÚ8æ¼Ÿ±¦2
+Z
+java:S1854"8Remove this useless assignment to local variable "str2".(Ê¯’ıÿÿÿÿ8è¼Ÿ±¦2
+W
+java:S1854"5Remove this useless assignment to local variable "w".(£§¤Úüÿÿÿÿ8ê¼Ÿ±¦2
+H
+java:S1481"&Remove this unused "w" local variable.(£§¤Úüÿÿÿÿ8ñ¼Ÿ±¦2
+K
+java:S1481")Remove this unused "str2" local variable.(Ê¯’ıÿÿÿÿ8ò¼Ÿ±¦2
+=
+java:S2129" Remove this "String" constructor(ı³ıÚ8ş¼Ÿ±¦2
+F
+java:S1481")Remove this unused "str3" local variable.(ı³ıÚ8½Ÿ±¦2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÁéÜ­øÿÿÿÿ8‚½Ÿ±¦2
+L	java:S106#"+Replace this use of System.out by a logger.(€‰òÂşÿÿÿÿ8‡½Ÿ±¦2
+L	java:S106'"+Replace this use of System.out by a logger.(ƒó‘üÿÿÿÿ8‹½Ÿ±¦2
+L	java:S106/"+Replace this use of System.out by a logger.(ú÷úşÿÿÿÿ8‘½Ÿ±¦2
+L	java:S1062"+Replace this use of System.out by a logger.(¿ğëåÿÿÿÿÿ8“½Ÿ±¦2
